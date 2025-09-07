@@ -1,0 +1,9 @@
+# never commit secrets
+.env
+
+# macOS cruft
+.DS_Store
+
+# editor junk
+.vscode/
+.idea/

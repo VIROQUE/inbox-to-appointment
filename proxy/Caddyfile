@@ -1,0 +1,4 @@
+# Local HTTPS proxy for n8n
+localhost {
+  reverse_proxy n8n:5678
+}
